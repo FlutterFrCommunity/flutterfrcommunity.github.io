@@ -1,2 +1,3 @@
-# flutterfrcommunity.github.io
-Website of the Flutter FR Community
+# Flutter FR Community
+
+Website of the Flutter FR Community.
